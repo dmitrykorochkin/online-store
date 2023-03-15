@@ -32,4 +32,4 @@ yarn-error.log*
 .vercel
 
 # Task
-.Task
+Task.txt
