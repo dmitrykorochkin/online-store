@@ -2,6 +2,7 @@
 command = "next build"
 base = "."
 publish = ".next"
+edge_functions = "functions"
 
 [build.environment]
 NEXT_USE_NETLIFY_EDGE = "true"
