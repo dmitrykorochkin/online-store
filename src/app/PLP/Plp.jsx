@@ -5,3 +5,6 @@ const Plp = () => {
     </>
   );
 };
+
+
+export default Plp

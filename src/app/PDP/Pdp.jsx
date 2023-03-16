@@ -5,3 +5,5 @@ const Pdp = () => {
     </>
   );
 }
+
+export default Pdp
