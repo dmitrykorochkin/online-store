@@ -1,8 +1,5 @@
-
-import Home from '../app/Home.jsx';
-
+import Home from "../app/Home/Home.jsx";
 
 export default function HomePage() {
-  return <Home/>
-
+  return <Home />;
 }
