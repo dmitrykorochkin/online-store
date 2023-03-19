@@ -1,7 +1,7 @@
-import Home from "../app/Home/Home.jsx";
-import Plp from "../app/PLP/Plp.jsx";
-import Pdp from "../app/PDP/Pdp.jsx";
-import Cart from "../app/Cart/Cart.jsx";
+import Home from "../app/screens/Home/Home.jsx";
+import Plp from "../app/screens/PLP/Plp.jsx";
+import Pdp from "../app/screens/PDP/Pdp.jsx";
+import Cart from "../app/screens/Cart/Cart.jsx";
 
 export default function HomePage() {
   return (
